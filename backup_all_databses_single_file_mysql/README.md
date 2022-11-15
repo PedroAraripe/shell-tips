@@ -1,4 +1,4 @@
-In this script we'll use the dependencies pv to see the download speed / progression of the databases backup and gzip to compact the backup.
+This script uses the pv and gzip dependencies, both optional. PV to see the download speed / progression of the databases backup and gzip to compact the backup.
 
 Before you run the script, make sure that you have gived the right permissions to the script, using chmod +x script_name.
 
